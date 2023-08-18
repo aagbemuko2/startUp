@@ -15,5 +15,5 @@ def dummy():
     print('I am whoever I am')
 
 
-    if __name__ == '__main__':
-        dummy()
+if __name__ == '__main__':
+    dummy()
