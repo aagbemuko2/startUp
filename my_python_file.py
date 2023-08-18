@@ -2,7 +2,7 @@
 def dummy():
     """
     Apparently I needed some docstrings to say what the heck
-    this function does. Its a dummy function!
+    this function does. Its prints who I am!
 
     Parameters
     ----------
@@ -10,7 +10,7 @@ def dummy():
 
     Returns
     -------
-    nothing
+    nothing in principle
     """
     print('I am whoever I am')
 
