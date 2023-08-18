@@ -13,3 +13,7 @@ def dummy():
     nothing
     """
     print('I am whoever I am')
+
+
+    if __name__ == '__main__':
+        dummy()
